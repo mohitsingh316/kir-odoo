@@ -71,9 +71,7 @@ We welcome contributions! Please follow these steps:
 
 ## Contact
 
-For any questions or issues, please contact [your-email@example.com].
+For any questions or issues, please contact [mohitsingh79897@gmail.com].
 
 Thank you for using kir-odoo! For more information, visit the [repository](https://github.com/mohitsingh316/kir-odoo).
 ```
-
-Feel free to customize the email address and any other details to fit your specific needs.
