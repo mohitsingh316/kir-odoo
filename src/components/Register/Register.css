@@ -1,0 +1,31 @@
+/* Register.css */
+.register-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .register-container h3 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .register-container .form-control {
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 14px;
+  }
+  
+  .register-container .btn-primary {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .register-container .forgot-password {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
